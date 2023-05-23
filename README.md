@@ -4,8 +4,11 @@ Welcome to my personal README.
 
 ## About Me
 
+Complete amateur trying desparately not be relegated to natural stupidity in a future of artificial intelligence.
+
 ## Skills
-$N - yr$ experience working with:
+$N - 2018$ experience working with:
+
 ### **Languages**: 
 * [![Python][Python-shield]][Python-url] 🐍
 * [![R][R-shield]][R-url] 📊
@@ -19,6 +22,8 @@ $N - yr$ experience working with:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Interests
+
+Sideline enthusiast for:
 
 * [![Linux][Linux-shield]][Linux-url]🐧
 * [![Rust][Rust-shield]][Rust-url]⚙️
@@ -40,7 +45,7 @@ Please feel free to attempt to contact me at:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 > Disclaimer: The commits and pull requests in these repos are those of the coder and do not necessarily reflect the views or positions of any entities they represent.
-<!-- Accentuating the allure with slick shields-->
+<!-- Accentuating the allure with slick shields -->
 [Python-shield]: https://img.shields.io/badge/Python-Dancing%20with%20Code-blue?style=flat-square&logo=python
 [Python-url]: https://www.python.org/
 [R-shield]: https://img.shields.io/badge/-R-green?style=flat-square&logo=r
