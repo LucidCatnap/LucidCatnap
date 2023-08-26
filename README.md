@@ -8,7 +8,7 @@ Welcome to my personal README.
 Complete amateur trying desparately not be relegated to natural stupidity in a future of artificial intelligence.
 
 ## Skills
-N - 2018 experience working with:
+$N - 2018$ experience working with:
 
 ### **Languages**
 
