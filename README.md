@@ -5,7 +5,7 @@ Welcome to my personal README.
 
 ## About Me
 
-Complete amateur trying desparately not be relegated to natural stupidity in a future of artificial intelligence.
+
 
 ## Skills
 $N - 2018$ experience working with:
