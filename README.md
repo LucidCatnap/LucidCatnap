@@ -30,7 +30,6 @@ N - 2018 experience working with:
 Sideline enthusiast for:
 
 * [![Linux][Linux-shield]][Linux-url]
-* [![Rust][Rust-shield]][Rust-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
